@@ -2,17 +2,6 @@ available: true
 id: 0
 mainset:
 - names:
-  - name: 'New '
-    probability: 1
-  - name: 'Neo '
-    probability: 1
-  - name: 'Wario''s '
-    probability: 1
-  - name: ''
-    probability: 70
-  - name: 'Shit '
-    probability: 1
-- names:
   - name: ''
     probability: 50
   - name: 'Funky '

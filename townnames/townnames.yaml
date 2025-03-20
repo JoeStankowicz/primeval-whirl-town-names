@@ -8,12 +8,12 @@ mainset:
     probability: 1
   - name: 'Wario''s '
     probability: 1
-  - name: ''
+  - name: ' '
     probability: 70
   - name: 'Shit '
     probability: 1
 - names:
-  - name: ''
+  - name: ' '
     probability: 50
   - name: 'Funky '
     probability: 1
@@ -639,7 +639,7 @@ mainset:
   - name: Uniform
     probability: 1
 - names:
-  - name: ''
+  - name: ' '
     probability: 40
   - name: brook
     probability: 1
@@ -784,7 +784,7 @@ mainset:
   - name: corn
     probability: 1
 - names:
-  - name: ''
+  - name: ' '
     probability: 50
   - name: ' of Dildos'
     probability: 1

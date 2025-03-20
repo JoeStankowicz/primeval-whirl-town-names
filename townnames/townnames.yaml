@@ -1,0 +1,951 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: 'New '
+    probability: 1
+  - name: 'Neo '
+    probability: 1
+  - name: 'Wario''s '
+    probability: 1
+  - name: ''
+    probability: 70
+  - name: 'Shit '
+    probability: 1
+- names:
+  - name: ''
+    probability: 50
+  - name: 'Funky '
+    probability: 1
+  - name: 'Primeval '
+    probability: 1
+  - name: 'Super '
+    probability: 1
+  - name: 'New Neo '
+    probability: 1
+  - name: 'Lil '
+    probability: 1
+  - name: 'Huge '
+    probability: 1
+  - name: 'Angry '
+    probability: 1
+  - name: 'Boring '
+    probability: 1
+  - name: 'Shitty '
+    probability: 1
+  - name: 'Rock '
+    probability: 1
+  - name: 'The '
+    probability: 1
+  - name: 'Dusty '
+    probability: 1
+  - name: 'Happy Happy '
+    probability: 1
+  - name: 'Deep '
+    probability: 1
+  - name: 'Lubed '
+    probability: 1
+  - name: 'Lost '
+    probability: 1
+  - name: 'Lusty '
+    probability: 1
+  - name: 'South '
+    probability: 1
+  - name: 'East '
+    probability: 1
+  - name: 'Weast '
+    probability: 1
+  - name: 'North '
+    probability: 1
+  - name: 'Mount '
+    probability: 1
+  - name: 'Cosmo '
+    probability: 1
+  - name: 'Cosmic '
+    probability: 1
+  - name: 'Fort '
+    probability: 1
+  - name: 'Golden '
+    probability: 1
+  - name: 'Costa del '
+    probability: 1
+  - name: 'Ancient '
+    probability: 1
+  - name: 'Lesser '
+    probability: 1
+  - name: 'Shittier '
+    probability: 1
+  - name: 'Toxic '
+    probability: 1
+  - name: 'Cooler '
+    probability: 1
+  - name: 'Boring '
+    probability: 1
+  - name: 'Proud '
+    probability: 1
+  - name: 'Terror '
+    probability: 1
+  - name: 'Dick''s '
+    probability: 1
+  - name: 'Homer''s '
+    probability: 1
+  - name: 'American '
+    probability: 1
+  - name: Ankh-
+    probability: 1
+  - name: 'Aluminum '
+    probability: 1
+  - name: 'Corn '
+    probability: 1
+  - name: 'Electric '
+    probability: 1
+  - name: 'First '
+    probability: 1
+  - name: 'Last '
+    probability: 1
+  - name: 'Green '
+    probability: 1
+  - name: 'The '
+    probability: 1
+  - name: 'Old Neo '
+    probability: 1
+  - name: 'Amorous '
+    probability: 1
+  - name: 'Horizontal '
+    probability: 1
+  - name: 'Tossed '
+    probability: 1
+  - name: 'Scrambled '
+    probability: 1
+  - name: 'Hot '
+    probability: 1
+  - name: 'Stale '
+    probability: 1
+  - name: 'Beef '
+    probability: 1
+  - name: 'Beefy '
+    probability: 1
+  - name: 'Baked '
+    probability: 1
+  - name: 'Balls '
+    probability: 1
+  - name: 'Drowning '
+    probability: 1
+  - name: 'Sweaty '
+    probability: 1
+  - name: 'Spicy '
+    probability: 1
+  - name: 'Bruised '
+    probability: 1
+  - name: 'Spongy '
+    probability: 1
+  - name: 'Turgid '
+    probability: 1
+  - name: 'Red '
+    probability: 1
+  - name: 'Purple '
+    probability: 1
+  - name: 'Green '
+    probability: 1
+  - name: 'Perpetual '
+    probability: 1
+  - name: 'Sanitized '
+    probability: 1
+  - name: 'Corrupted '
+    probability: 1
+  - name: 'Mario''s '
+    probability: 1
+  - name: 'Chain of '
+    probability: 1
+  - name: 'Hardened '
+    probability: 1
+  - name: 'Clean '
+    probability: 1
+  - name: 'Moist '
+    probability: 1
+  - name: 'Wario''s '
+    probability: 1
+  - name: 'Waluigi''s '
+    probability: 1
+  - name: 'Robotnik''s '
+    probability: 1
+  - name: 'Sonic''s '
+    probability: 1
+  - name: 'Bowser''s '
+    probability: 1
+  - name: 'Battle '
+    probability: 1
+  - name: 'Goku''s '
+    probability: 1
+  - name: 'Planet '
+    probability: 1
+  - name: 'Dripping '
+    probability: 1
+  - name: 'Just '
+    probability: 1
+  - name: 'Metro '
+    probability: 1
+  - name: 'Salty '
+    probability: 1
+  - name: 'Evil '
+    probability: 1
+  - name: 'Daffy '
+    probability: 1
+  - name: 'Daft '
+    probability: 1
+  - name: 'Infected '
+    probability: 1
+  - name: 'Obedient '
+    probability: 1
+  - name: 'Jolly '
+    probability: 1
+  - name: 'Jelly '
+    probability: 1
+  - name: 'Helpful '
+    probability: 1
+  - name: 'Glorious '
+    probability: 1
+  - name: 'Quaint '
+    probability: 1
+  - name: 'Peculiar '
+    probability: 1
+  - name: 'Buffering '
+    probability: 1
+  - name: 'Sharp '
+    probability: 1
+  - name: 'Fine '
+    probability: 1
+  - name: 'Warrior''s '
+    probability: 1
+  - name: 'Soldier''s '
+    probability: 1
+  - name: 'Callisto''s '
+    probability: 1
+  - name: 'Brass '
+    probability: 1
+  - name: 'Brutal '
+    probability: 1
+  - name: 'Cobalt '
+    probability: 1
+  - name: 'Crimson '
+    probability: 1
+  - name: 'Decaying '
+    probability: 1
+  - name: 'Dull '
+    probability: 1
+  - name: 'Massive '
+    probability: 1
+  - name: 'Rare '
+    probability: 1
+  - name: 'Common '
+    probability: 1
+  - name: 'Uncommon '
+    probability: 1
+  - name: 'Legendary '
+    probability: 1
+  - name: 'Counterfeit '
+    probability: 1
+  - name: 'Hapless '
+    probability: 1
+  - name: 'Illusionary '
+    probability: 1
+  - name: 'Mischievous '
+    probability: 1
+  - name: 'Nonchalant '
+    probability: 1
+  - name: 'Retro '
+    probability: 1
+  - name: 'Sub '
+    probability: 1
+  - name: 'Unruly '
+    probability: 1
+  - name: 'Unwashed '
+    probability: 1
+  - name: 'Uniform '
+    probability: 1
+  - name: 'Uninformed '
+    probability: 1
+  - name: 'Substituted '
+    probability: 1
+- names:
+  - name: Ass
+    probability: 1
+  - name: Whirl
+    probability: 1
+  - name: Tokyo
+    probability: 1
+  - name: Seattle
+    probability: 1
+  - name: Cuca
+    probability: 1
+  - name: Winnipeg
+    probability: 1
+  - name: Spring
+    probability: 1
+  - name: Port
+    probability: 1
+  - name: Van
+    probability: 1
+  - name: Couve
+    probability: 1
+  - name: Lasagna
+    probability: 1
+  - name: Spaghetti
+    probability: 1
+  - name: Onett
+    probability: 1
+  - name: Twoson
+    probability: 1
+  - name: Three
+    probability: 1
+  - name: Winters
+    probability: 1
+  - name: Village
+    probability: 1
+  - name: Dalaam
+    probability: 1
+  - name: Scaraba
+    probability: 1
+  - name: Magicant
+    probability: 1
+  - name: Pork
+    probability: 1
+  - name: Doma
+    probability: 1
+  - name: Figaro
+    probability: 1
+  - name: Narshe
+    probability: 1
+  - name: Midgar
+    probability: 1
+  - name: Junon
+    probability: 1
+  - name: Wuita
+    probability: 1
+  - name: Corel
+    probability: 1
+  - name: Saucer
+    probability: 1
+  - name: Gongaga
+    probability: 1
+  - name: Chicken
+    probability: 1
+  - name: Shelby
+    probability: 1
+  - name: Haver
+    probability: 1
+  - name: Ogden
+    probability: 1
+  - name: Chum
+    probability: 1
+  - name: Kob
+    probability: 1
+  - name: France
+    probability: 1
+  - name: Paris
+    probability: 1
+  - name: London
+    probability: 1
+  - name: Morpork
+    probability: 1
+  - name: Home
+    probability: 1
+  - name: Colony
+    probability: 1
+  - name: Klondike
+    probability: 1
+  - name: Settlement
+    probability: 1
+  - name: Detroit
+    probability: 1
+  - name: Catfish
+    probability: 1
+  - name: Paradise
+    probability: 1
+  - name: Apocalypse
+    probability: 1
+  - name: Dollar
+    probability: 1
+  - name: Hollar
+    probability: 1
+  - name: Cake
+    probability: 1
+  - name: Slug
+    probability: 1
+  - name: Sllllllug
+    probability: 1
+  - name: Ugly
+    probability: 1
+  - name: Bone
+    probability: 1
+  - name: Dong
+    probability: 1
+  - name: Boring
+    probability: 1
+  - name: Normal
+    probability: 1
+  - name: Metro
+    probability: 1
+  - name: Neopolitan
+    probability: 1
+  - name: Cake
+    probability: 1
+  - name: Chocolate
+    probability: 1
+  - name: Strawberry
+    probability: 1
+  - name: Vanilla
+    probability: 1
+  - name: Sex
+    probability: 1
+  - name: Heat
+    probability: 1
+  - name: Core
+    probability: 1
+  - name: City
+    probability: 1
+  - name: Grope
+    probability: 1
+  - name: Salad
+    probability: 1
+  - name: Arse
+    probability: 1
+  - name: Business
+    probability: 1
+  - name: Father
+    probability: 1
+  - name: Nail
+    probability: 1
+  - name: Rust
+    probability: 1
+  - name: Smash
+    probability: 1
+  - name: Banana
+    probability: 1
+  - name: Cucumber
+    probability: 1
+  - name: Bread
+    probability: 1
+  - name: Dog
+    probability: 1
+  - name: Sushi
+    probability: 1
+  - name: Oven
+    probability: 1
+  - name: Ham
+    probability: 1
+  - name: Crumpet
+    probability: 1
+  - name: Potato
+    probability: 1
+  - name: Vasaltis
+    probability: 1
+  - name: Meniel
+    probability: 1
+  - name: Gravy
+    probability: 1
+  - name: Rome
+    probability: 1
+  - name: Beetle
+    probability: 1
+  - name: Yoga
+    probability: 1
+  - name: Deep
+    probability: 1
+  - name: Velvet
+    probability: 1
+  - name: Callisto
+    probability: 1
+  - name: Tuna
+    probability: 1
+  - name: Daisy
+    probability: 1
+  - name: Bishop
+    probability: 1
+  - name: Fence
+    probability: 1
+  - name: Pencil
+    probability: 1
+  - name: Nipple
+    probability: 1
+  - name: Milk
+    probability: 1
+  - name: Dick
+    probability: 1
+  - name: Revulsion
+    probability: 1
+  - name: Delicious
+    probability: 1
+  - name: Twister
+    probability: 1
+  - name: Eggplanet
+    probability: 1
+  - name: Ick
+    probability: 1
+  - name: Cave
+    probability: 1
+  - name: Stretcher
+    probability: 1
+  - name: Monster
+    probability: 1
+  - name: Taste
+    probability: 1
+  - name: Boofing
+    probability: 1
+  - name: Hive
+    probability: 1
+  - name: Nectar
+    probability: 1
+  - name: Cavern
+    probability: 1
+  - name: Circus
+    probability: 1
+  - name: Clown
+    probability: 1
+  - name: Dump
+    probability: 1
+  - name: Punch
+    probability: 1
+  - name: Stink
+    probability: 1
+  - name: Stank
+    probability: 1
+  - name: Hoover
+    probability: 1
+  - name: Dog
+    probability: 1
+  - name: Floor
+    probability: 1
+  - name: Pikachu
+    probability: 1
+  - name: Venture
+    probability: 1
+  - name: Slam
+    probability: 1
+  - name: Helmet
+    probability: 1
+  - name: Trombone
+    probability: 1
+  - name: Tube
+    probability: 1
+  - name: Uranus
+    probability: 1
+  - name: Jupiter
+    probability: 1
+  - name: Manhole
+    probability: 1
+  - name: Willy
+    probability: 1
+  - name: Engine
+    probability: 1
+  - name: Shithole
+    probability: 1
+  - name: Clench
+    probability: 1
+  - name: Bung
+    probability: 1
+  - name: Corn
+    probability: 1
+  - name: Pub
+    probability: 1
+  - name: Mean
+    probability: 1
+  - name: Inside
+    probability: 1
+  - name: Cheeks
+    probability: 1
+  - name: Clap
+    probability: 1
+  - name: Flap
+    probability: 1
+  - name: Soda
+    probability: 1
+  - name: Hotdog
+    probability: 1
+  - name: Vegeta
+    probability: 1
+  - name: Planet
+    probability: 1
+  - name: Door
+    probability: 1
+  - name: Donkey
+    probability: 1
+  - name: Sock
+    probability: 1
+  - name: Arrakeen
+    probability: 1
+  - name: Carthag
+    probability: 1
+  - name: Cart
+    probability: 1
+  - name: Corrinth
+    probability: 1
+  - name: Scape
+    probability: 1
+  - name: Trash
+    probability: 1
+  - name: Scum
+    probability: 1
+  - name: Chum
+    probability: 1
+  - name: Venereal
+    probability: 1
+  - name: Lun
+    probability: 1
+  - name: Nad
+    probability: 1
+  - name: Sonic
+    probability: 1
+  - name: Pika
+    probability: 1
+  - name: Scan
+    probability: 1
+  - name: Brit
+    probability: 1
+  - name: Bargain
+    probability: 1
+  - name: Pizza
+    probability: 1
+  - name: Misty
+    probability: 1
+  - name: Mist
+    probability: 1
+  - name: Bubble
+    probability: 1
+  - name: Frog
+    probability: 1
+  - name: Snail
+    probability: 1
+  - name: Minnow
+    probability: 1
+  - name: Rare
+    probability: 1
+  - name: Akuma
+    probability: 1
+  - name: Thunder
+    probability: 1
+  - name: River
+    probability: 1
+  - name: Wind
+    probability: 1
+  - name: Sage
+    probability: 1
+  - name: Finished
+    probability: 1
+  - name: Fixed
+    probability: 1
+  - name: Writ
+    probability: 1
+  - name: Uniform
+    probability: 1
+- names:
+  - name: ''
+    probability: 40
+  - name: brook
+    probability: 1
+  - name: ereal
+    probability: 1
+  - name: rub
+    probability: 1
+  - name: tub
+    probability: 1
+  - name: land
+    probability: 1
+  - name: burger
+    probability: 1
+  - name: borg
+    probability: 1
+  - name: attle
+    probability: 1
+  - name: swab
+    probability: 1
+  - name: couver
+    probability: 1
+  - name: monga
+    probability: 1
+  - name: field
+    probability: 1
+  - name: ana
+    probability: 1
+  - name: anana
+    probability: 1
+  - name: bees
+    probability: 1
+  - name: ism
+    probability: 1
+  - name: ing
+    probability: 1
+  - name: ingly
+    probability: 1
+  - name: cover
+    probability: 1
+  - name: ale
+    probability: 1
+  - name: shit
+    probability: 1
+  - name: shite
+    probability: 1
+  - name: dump
+    probability: 1
+  - name: punch
+    probability: 1
+  - name: hole
+    probability: 1
+  - name: bean
+    probability: 1
+  - name: drome
+    probability: 1
+  - name: pork
+    probability: 1
+  - name: porkin
+    probability: 1
+  - name: lulu
+    probability: 1
+  - name: isco
+    probability: 1
+  - name: eka
+    probability: 1
+  - name: frog
+    probability: 1
+  - name: jack
+    probability: 1
+  - name: jerk
+    probability: 1
+  - name: knob
+    probability: 1
+  - name: sack
+    probability: 1
+  - name: ula
+    probability: 1
+  - name: vania
+    probability: 1
+  - name: had
+    probability: 1
+  - name: inch
+    probability: 1
+  - name: along
+    probability: 1
+  - name: polis
+    probability: 1
+  - name: gaga
+    probability: 1
+  - name: thorpe
+    probability: 1
+  - name: land
+    probability: 1
+  - name: bridge
+    probability: 1
+  - name: sly
+    probability: 1
+  - name: dam
+    probability: 1
+  - name: ley
+    probability: 1
+  - name: sock
+    probability: 1
+  - name: ill
+    probability: 1
+  - name: zac
+    probability: 1
+  - name: clench
+    probability: 1
+  - name: wych
+    probability: 1
+  - name: wench
+    probability: 1
+  - name: borough
+    probability: 1
+  - name: ton
+    probability: 1
+  - name: mouth
+    probability: 1
+  - name: oak
+    probability: 1
+  - name: height
+    probability: 1
+  - name: east
+    probability: 1
+  - name: west
+    probability: 1
+  - name: exe
+    probability: 1
+  - name: chu
+    probability: 1
+  - name: avian
+    probability: 1
+  - name: adian
+    probability: 1
+  - name: stings
+    probability: 1
+  - name: hill
+    probability: 1
+  - name: ock
+    probability: 1
+  - name: corn
+    probability: 1
+- names:
+  - name: ''
+    probability: 50
+  - name: ' of Dildos'
+    probability: 1
+  - name: ' Port'
+    probability: 1
+  - name: ' Castle'
+    probability: 1
+  - name: ' Dock'
+    probability: 1
+  - name: ' Land'
+    probability: 1
+  - name: ' 64'
+    probability: 1
+  - name: ' Jungle'
+    probability: 1
+  - name: ' Ruins'
+    probability: 1
+  - name: ' Park'
+    probability: 1
+  - name: ' of Shit'
+    probability: 1
+  - name: ' on Fire'
+    probability: 1
+  - name: ' of the Future'
+    probability: 1
+  - name: ' Ranch'
+    probability: 1
+  - name: ' Blue'
+    probability: 1
+  - name: ' Cape'
+    probability: 1
+  - name: ' Fortress'
+    probability: 1
+  - name: ' Valley'
+    probability: 1
+  - name: ' Meadows'
+    probability: 1
+  - name: ' Incorporated'
+    probability: 1
+  - name: ' the Fifth'
+    probability: 1
+  - name: ' the First'
+    probability: 1
+  - name: ' the Seventh'
+    probability: 1
+  - name: ' the Hundredth'
+    probability: 1
+  - name: ' the Second'
+    probability: 1
+  - name: ' the Third'
+    probability: 1
+  - name: ' Ridge'
+    probability: 1
+  - name: ' Beach'
+    probability: 1
+  - name: ' Summit'
+    probability: 1
+  - name: ' Machine'
+    probability: 1
+  - name: ' Shoals'
+    probability: 1
+  - name: ' Gorge'
+    probability: 1
+  - name: ' Town'
+    probability: 1
+  - name: ' City'
+    probability: 1
+  - name: ' Sex'
+    probability: 1
+  - name: ' II'
+    probability: 1
+  - name: ' III'
+    probability: 1
+  - name: ' IV'
+    probability: 1
+  - name: ' V'
+    probability: 1
+  - name: ' VI'
+    probability: 1
+  - name: ' JR'
+    probability: 1
+  - name: ' Junior'
+    probability: 1
+  - name: ' Kong'
+    probability: 1
+  - name: ' Pocket'
+    probability: 1
+  - name: ' for Reals'
+    probability: 1
+  - name: ' of the Lost'
+    probability: 1
+  - name: ' for Nerds'
+    probability: 1
+  - name: ' in a Bun'
+    probability: 1
+  - name: ' of the Sun'
+    probability: 1
+  - name: ' but Rotten'
+    probability: 1
+  - name: ' District'
+    probability: 1
+  - name: ' of the King'
+    probability: 1
+  - name: ' House'
+    probability: 1
+  - name: ' Bell'
+    probability: 1
+  - name: ' Mart'
+    probability: 1
+  - name: ' the False'
+    probability: 1
+  - name: ' the Truth'
+    probability: 1
+  - name: ' of the Dark'
+    probability: 1
+  - name: ' Code'
+    probability: 1
+  - name: ' for Adults'
+    probability: 1
+  - name: ' Velvet'
+    probability: 1
+  - name: ' Zone'
+    probability: 1
+  - name: ' Region'
+    probability: 1
+  - name: ' Territory'
+    probability: 1
+  - name: ' Realm'
+    probability: 1
+  - name: ' Sphere'
+    probability: 1
+  - name: ' Circuit'
+    probability: 1
+  - name: ' Tract'
+    probability: 1
+  - name: ' Estate'
+    probability: 1
+  - name: ' of Skill'
+    probability: 1
+  - name: ' of Brilliance'
+    probability: 1
+  - name: ' of Enlightenment'
+    probability: 1
+  - name: ' of the Squid'
+    probability: 1
+  - name: ' of the Tiger'
+    probability: 1
+  - name: ' of the Wolf'
+    probability: 1
+  - name: ' of Worth'
+    probability: 1
+  - name: ' of Measure'
+    probability: 1
+  - name: ' but Worse'
+    probability: 1
+  - name: ' of Slaughter'
+    probability: 1
+  - name: ' of Pestilence'
+    probability: 1
+  - name: ' Market'
+    probability: 1
+name: Townnames
+source: null
+subsets: []

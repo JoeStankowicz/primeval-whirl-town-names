@@ -80,8 +80,6 @@ mainset:
     probability: 1
   - name: 'American '
     probability: 1
-  - name: Ankh-
-    probability: 1
   - name: 'Aluminum '
     probability: 1
   - name: 'Corn '
